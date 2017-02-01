@@ -1,4 +1,4 @@
-## Data Transformation Agency Coding Test
+## Description
 
 Login system that provides authentication to businesses.
 
@@ -62,6 +62,8 @@ OR
 
 - Python 3.x
 - MySQL
-- Tested on CentOS 7.x OS and Mac OS X/OS X/macOS.
+- Tested in CentOS 7.x OS and Mac OS X/OS X/macOS.
 
 ## Getting Started
+
+
