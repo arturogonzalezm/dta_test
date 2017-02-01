@@ -1,0 +1,4 @@
+#unit test
+nose
+nose-parameterized
+configuration
