@@ -1,4 +1,4 @@
-## DTA Coding Test
+## Data Transformation Agency Coding Test
 
 Login system that provides authentication to businesses.
 
@@ -65,17 +65,3 @@ OR
 - Tested on CentOS 7.x OS and Mac OS X/OS X/macOS.
 
 ## Getting Started
-
-1. **Dependency Installation**
-
-- Please install all the dependencies typing: `pip install -r requirements.txt`
-
-- If you experience a connection error, try: `pip install --index-url=http://pypi.python.org/simple/ --trusted-host pypi.python.org  -r requirements`
-
-2. **Database setup**
-
-- Type: `python db_setup.py`
-
-3. **Execution**
-
-- Type: `python main.py`
